@@ -22,6 +22,7 @@ ul, li {
 
 a {
   text-decoration: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 ul:after, .clear:after {
@@ -436,6 +437,7 @@ header {
 #reviews .container .customNav .owl-prev:hover,
 #reviews .container .customNav .owl-next:hover {
   opacity: 0.8;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 #reviews .container .customNav .owl-prev {
   left: 0px;
