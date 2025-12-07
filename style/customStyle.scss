@@ -30,6 +30,7 @@ ul,li{
 
 a{
 	text-decoration:none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 ul:after, .clear:after{
@@ -480,6 +481,7 @@ header{
 		.owl-prev:hover,
 		.owl-next:hover{
 			opacity: 0.8;
+			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 		}
 
 		.owl-prev {
